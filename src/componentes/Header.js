@@ -43,7 +43,7 @@ function Header() {
           className={`header-nav ${menuAbierto ? "abierto" : ""}`}
           style={{
             display: "flex",
-            gap: "40px",
+            gap: "20px",
             justifyContent: "flex-end",
             alignItems: "center",
             width: "37%",

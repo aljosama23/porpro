@@ -75,6 +75,7 @@ function Proyectos() {
                 color: "white",
                 fontSize: "1.15rem",
                 textAlign: "center",
+                padding: "5px"
               }}
             >
               PROSENE es un sitio web desarrollado para facilitar la gestión de solicitudes
@@ -127,6 +128,7 @@ function Proyectos() {
                 color: "white",
                 fontSize: "1.15rem",
                 textAlign: "center",
+                padding: "5px"
               }}
             >
               Plataforma de inscripción de alumnos en diferentes clases y secciones.
@@ -182,6 +184,7 @@ function Proyectos() {
                   color: "white",
                   fontSize: "1.15rem",
                   textAlign: "center",
+                  padding: "5px"
                 }}
               >
                 Reconecta es una propuesta de plataforma digital orientada a la reintegración
