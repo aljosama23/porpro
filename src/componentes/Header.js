@@ -14,7 +14,6 @@ function Header() {
         alignItems: "center",
         justifyContent: "flex-start",
         height: "100vh",
-         margin: "50px 0",
         padding: "0 3% 0 10%",
         color: "white"
       }}
@@ -56,19 +55,19 @@ function Header() {
           onClick={() => setMenuAbierto(!menuAbierto)}
 
         >
-          <a href="#home" className="header-link" style={{ textDecoration: "none", fontSize: "1.2rem" }}>
+          <a href="#home" className="header-link" style={{ textDecoration: "none", fontSize: "1.1rem" }}>
             <span style={{ color: "#3B8985" }}>01.</span>
             <span style={{ color: "white" }}> Sobre mi</span>
           </a>
-          <a href="#habilidades" className="header-link" style={{ textDecoration: "none", fontSize: "1.2rem" }}>
+          <a href="#habilidades" className="header-link" style={{ textDecoration: "none", fontSize: "1.1rem" }}>
             <span style={{ color: "#3B8985" }}>02.</span>
             <span style={{ color: "white" }}> Habilidades</span>
           </a>
-          <a href="#proyectos" className="header-link" style={{ textDecoration: "none", fontSize: "1.2rem" }}>
+          <a href="#proyectos" className="header-link" style={{ textDecoration: "none", fontSize: "1.1rem" }}>
             <span style={{ color: "#3B8985" }}>03.</span>
             <span style={{ color: "white" }}> Proyectos</span>
           </a>
-          <a href="#contacto" className="header-link" style={{ textDecoration: "none", fontSize: "1.2rem" }}>
+          <a href="#contacto" className="header-link" style={{ textDecoration: "none", fontSize: "1.1rem" }}>
             <span style={{ color: "#3B8985" }}>04.</span>
             <span style={{ color: "white" }}> Contacto</span>
           </a>
@@ -98,9 +97,9 @@ function Header() {
             marginTop: "50px"
           }}
         >
-          <h1 style={{ fontSize: "5rem", marginBottom: "20px" }}>Alejandro Martínez</h1>
-          <h3 style={{ fontSize: "2rem", marginBottom: "20px" }}>Ingeniero en sistemas</h3>
-          <p style={{ fontSize: "1.43rem", lineHeight: "1.5", color: "#B5B5B3" }}>
+          <h1 style={{ fontSize: "4rem", marginBottom: "20px" }}>Alejandro Martínez</h1>
+          <h3 style={{ fontSize: "1.5rem", marginBottom: "20px" }}>Ingeniero en sistemas</h3>
+          <p style={{ fontSize: "1rem", lineHeight: "1.5", color: "#B5B5B3" }}>
             Soy un apasionado del desarrollo de software, con un enfoque especial en el frontend, 
             donde mi fortaleza está en la creación de interfaces claras, funcionales y atractivas. 
             Destaco por mi atención al detalle y por el compromiso de construir soluciones web que ofrezcan 

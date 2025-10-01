@@ -5,7 +5,7 @@ import Proyectos from "./componentes/Proyectos";
 import Contacto from "./componentes/Contacto";
 import Habilidades from "./componentes/Habilidades";
 import Cursor from "./componentes/Cursor";
-import Reconecta from "./componentes/Reconecta"; // 👈 tu nueva página
+import Reconecta from "./componentes/Reconecta"; 
 import Prosene from "./componentes/Prosene";
 import SdM from "./componentes/SdM";
 
