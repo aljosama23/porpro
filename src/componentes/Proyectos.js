@@ -73,7 +73,7 @@ function Proyectos() {
             <div
               style={{
                 color: "white",
-                fontSize: "1.15rem",
+                fontSize: "1.1rem",
                 textAlign: "center",
                 padding: "5px"
               }}
@@ -126,7 +126,7 @@ function Proyectos() {
             <div
               style={{
                 color: "white",
-                fontSize: "1.15rem",
+                fontSize: "1.1rem",
                 textAlign: "center",
                 padding: "5px"
               }}
@@ -182,7 +182,7 @@ function Proyectos() {
               <div
                 style={{
                   color: "white",
-                  fontSize: "1.15rem",
+                  fontSize: "1.1rem",
                   textAlign: "center",
                   padding: "5px"
                 }}

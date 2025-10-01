@@ -22,7 +22,7 @@ function Prosene() {
         padding: "40px",
       }}
     >
-      <h1 style={{ color: "#61DAFB", fontSize: "2.5rem", marginBottom: "20px" }}>
+      <h1 style={{ color: "#61DAFB", fontSize: "2.25rem", marginBottom: "20px" }}>
         Proyecto: PROSENE
       </h1>
 
@@ -37,14 +37,14 @@ function Prosene() {
         }} 
       />
 
-      <h2 style={{ color: "#61DAFB", fontSize: "2.5rem", marginBottom: "20px" }}>
+      <h2 style={{ color: "#61DAFB", fontSize: "2.25rem", marginBottom: "20px" }}>
         Descripción de proyecto 
       </h2>
 
       <p
         style={{
           maxWidth: "800px",
-          fontSize: "1.5rem",
+          fontSize: "1.2rem",
           textAlign: "justify",
           lineHeight: "1.8",
         }}
@@ -58,7 +58,7 @@ function Prosene() {
       <p
         style={{
           maxWidth: "800px",
-          fontSize: "1.5rem",
+          fontSize: "1.2rem",
           textAlign: "justify",
           lineHeight: "1.8",
         }}
@@ -71,7 +71,7 @@ function Prosene() {
        <p
         style={{
           maxWidth: "800px",
-          fontSize: "1.5rem",
+          fontSize: "1.2rem",
           textAlign: "justify",
           lineHeight: "1.8",
         }}
@@ -84,7 +84,7 @@ function Prosene() {
 
       </p>
 
-    <h2 style={{ color: "#61DAFB", fontSize: "2.5rem", marginBottom: "20px" }}>
+    <h2 style={{ color: "#61DAFB", fontSize: "2.25rem", marginBottom: "20px" }}>
         Imagenes del proyecto
     </h2>     
 
@@ -129,18 +129,18 @@ function Prosene() {
         }} 
       />
 
-      <h2 style={{ color: "#61DAFB", fontSize: "2.5rem", marginBottom: "20px" }}>
+      <h2 style={{ color: "#61DAFB", fontSize: "2.25rem", marginBottom: "20px" }}>
         Tecnologias implementadas
       </h2>
 
   
-    <ul style={{ fontSize: "1.5rem", lineHeight: "2" }}>
+    <ul style={{ fontSize: "1.25rem", lineHeight: "2" }}>
         <li>Vue.js v3 (Composition API)</li>
         <li>FastAPI</li>
         <li>PostgreSQL</li>
     </ul>
 
-    <h2 style={{ color: "#61DAFB", fontSize: "2.5rem", marginBottom: "20px" }}>
+    <h2 style={{ color: "#61DAFB", fontSize: "2.25rem", marginBottom: "20px" }}>
         Repositorio del proyecto
       </h2>
 
@@ -166,7 +166,7 @@ function Prosene() {
       backgroundColor: 'transparent',
       transition: 'all 0.3s ease', 
       fontWeight: '600',
-      fontSize: '1.4rem',
+      fontSize: '1.2rem',
     }}
   >
     💻 Frontend
@@ -184,7 +184,7 @@ function Prosene() {
       backgroundColor: 'transparent',
       transition: 'all 0.3s ease',
       fontWeight: '600',
-      fontSize: '1.4rem',
+      fontSize: '1.2rem',
     }}
   >
     ⚙️ Backend

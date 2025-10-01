@@ -16,7 +16,7 @@ function SdM() {
         padding: "40px",
       }}
     >
-      <h1 style={{ color: "#61DAFB", fontSize: "2.5rem", marginBottom: "20px" }}>
+      <h1 style={{ color: "#61DAFB", fontSize: "2.25rem", marginBottom: "20px" }}>
         Proyecto: Sistema de matrícula
       </h1>
 
@@ -43,14 +43,14 @@ function SdM() {
       />
 
 
-      <h2 style={{ color: "#61DAFB", fontSize: "2.5rem", marginBottom: "20px" }}>
+      <h2 style={{ color: "#61DAFB", fontSize: "2.25rem", marginBottom: "20px" }}>
         Descripción de proyecto 
       </h2>
 
       <p
         style={{
           maxWidth: "800px",
-          fontSize: "1.5rem",
+          fontSize: "1.2rem",
           textAlign: "justify",
           lineHeight: "1.8",
         }}
@@ -64,7 +64,7 @@ function SdM() {
       <p
         style={{
           maxWidth: "800px",
-          fontSize: "1.5rem",
+          fontSize: "1.2rem",
           textAlign: "justify",
           lineHeight: "1.8",
         }}
@@ -80,7 +80,7 @@ function SdM() {
        <p
         style={{
           maxWidth: "800px",
-          fontSize: "1.5rem",
+          fontSize: "1.2rem",
           textAlign: "justify",
           lineHeight: "1.8",
         }}
@@ -91,12 +91,12 @@ function SdM() {
       </p>
 
      
-      <h2 style={{ color: "#61DAFB", fontSize: "2.5rem", marginBottom: "20px" }}>
+      <h2 style={{ color: "#61DAFB", fontSize: "2.25rem", marginBottom: "20px" }}>
         Tecnologias implementadas
       </h2>
 
   
-    <ul style={{ fontSize: "1.5rem", lineHeight: "2" }}>
+    <ul style={{ fontSize: "1.2rem", lineHeight: "2" }}>
         <li>PHP</li>
         <li>Laravel</li>
         <li>Java</li>
