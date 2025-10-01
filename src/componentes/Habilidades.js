@@ -30,7 +30,8 @@ function Habilidades() {
         flexDirection: "column",
         alignItems: "center",
         //background: "#181818",
-        padding: "40px 0"
+        padding: "40px 0",
+        margin: "40px"
       }}
     >
 

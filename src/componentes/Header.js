@@ -14,6 +14,7 @@ function Header() {
         alignItems: "center",
         justifyContent: "flex-start",
         height: "100vh",
+         margin: "50px 0",
         padding: "0 3% 0 10%",
         color: "white"
       }}
@@ -55,19 +56,19 @@ function Header() {
           onClick={() => setMenuAbierto(!menuAbierto)}
 
         >
-          <a href="#home" className="header-link" style={{ textDecoration: "none", fontSize: "1.3rem" }}>
+          <a href="#home" className="header-link" style={{ textDecoration: "none", fontSize: "1.2rem" }}>
             <span style={{ color: "#3B8985" }}>01.</span>
             <span style={{ color: "white" }}> Sobre mi</span>
           </a>
-          <a href="#habilidades" className="header-link" style={{ textDecoration: "none", fontSize: "1.3rem" }}>
+          <a href="#habilidades" className="header-link" style={{ textDecoration: "none", fontSize: "1.2rem" }}>
             <span style={{ color: "#3B8985" }}>02.</span>
             <span style={{ color: "white" }}> Habilidades</span>
           </a>
-          <a href="#proyectos" className="header-link" style={{ textDecoration: "none", fontSize: "1.3rem" }}>
+          <a href="#proyectos" className="header-link" style={{ textDecoration: "none", fontSize: "1.2rem" }}>
             <span style={{ color: "#3B8985" }}>03.</span>
             <span style={{ color: "white" }}> Proyectos</span>
           </a>
-          <a href="#contacto" className="header-link" style={{ textDecoration: "none", fontSize: "1.3rem" }}>
+          <a href="#contacto" className="header-link" style={{ textDecoration: "none", fontSize: "1.2rem" }}>
             <span style={{ color: "#3B8985" }}>04.</span>
             <span style={{ color: "white" }}> Contacto</span>
           </a>
