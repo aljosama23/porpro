@@ -55,20 +55,22 @@ function Header() {
           onClick={() => setMenuAbierto(!menuAbierto)}
 
         >
-          <a href="#home" className="header-link" style={{ textDecoration: "none", fontSize: "1rem" }}>
-            <span style={{ color: "#3B8985" }}>01.</span> <span style={{ color: "white" }}> Sobre mi</span>
+          <a href="#home" className="header-link" style={{ textDecoration: "none", fontSize: "1rem", display: "flex", alignItems: "center", gap: "5px" }}>
+            <span style={{ color: "#3B8985" }}>01.</span> 
+            <span style={{ color: "white" }}> Sobre mi</span>
            
           </a>
           <a href="#habilidades" className="header-link" style={{ textDecoration: "none", fontSize: "1rem" }}>
-            <span style={{ color: "#3B8985" }}>02.</span> <span style={{ color: "white" }}> Habilidades</span>
+            <span style={{ color: "#3B8985" }}>02.</span>
+             <span style={{ color: "white" }}> Habilidades</span>
             
           </a>
           <a href="#proyectos" className="header-link" style={{ textDecoration: "none", fontSize: "1rem" }}>
-            <span style={{ color: "#3B8985" }}>03.</span> <span style={{ color: "white" }}> Proyectos</span>
+            <span style={{ color: "#3B8985" }}>03.</span> 
             <span style={{ color: "white" }}> Proyectos</span>
           </a>
           <a href="#contacto" className="header-link" style={{ textDecoration: "none", fontSize: "1rem" }}>
-            <span style={{ color: "#3B8985" }}>04.</span><span style={{ color: "white" }}> Contacto</span>
+            <span style={{ color: "#3B8985" }}>04.</span>
             <span style={{ color: "white" }}> Contacto</span>
           </a>
         </nav>
