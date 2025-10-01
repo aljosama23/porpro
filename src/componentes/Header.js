@@ -56,11 +56,11 @@ function Header() {
 
         >
           <a href="#home" className="header-link" style={{ textDecoration: "none", fontSize: "1rem" }}>
-            <span style={{ color: "#3B8985" }}>01.</span>
-            <span style={{ color: "white" }}> Sobre mi</span>
+            <span style={{ color: "#3B8985" }}>01. Sobre mi</span>
+           
           </a>
           <a href="#habilidades" className="header-link" style={{ textDecoration: "none", fontSize: "1rem" }}>
-            <span style={{ color: "#3B8985" }}>02.</span>
+            <span style={{ color: "#3B8985" }}>02.</span> <span style={{ color: "white" }}> Habilidades</span>
             <span style={{ color: "white" }}> Habilidades</span>
           </a>
           <a href="#proyectos" className="header-link" style={{ textDecoration: "none", fontSize: "1rem" }}>
